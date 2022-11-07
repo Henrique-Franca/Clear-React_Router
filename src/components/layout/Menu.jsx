@@ -12,7 +12,7 @@ const Menu = props =>(
                     <Link to='/'>Início</Link>
                 </li>
                 <li>
-                    <a href='/'>Sobre</a>
+                    <Link to='/about'>Sobre</Link>
                 </li>
 
             </ul>
